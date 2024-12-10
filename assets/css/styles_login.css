@@ -157,7 +157,7 @@ form>a.botao>span {
         float: left;
         width: 30%;
         height: 100%;
-        background: #000000 url(/assets/Miless.gif) no-repeat;
+        background: #000000 url(./assets/Miless.gif) no-repeat;
         background-size: cover;
         background-position: right bottom;
 
@@ -174,7 +174,7 @@ form>a.botao>span {
 
 @media screen and (min-width: 993px) {
     body {
-        background-image: url(/assets/Miless.gif);
+        background-image: url(./assets/Miless.gif);
         background-size: cover;
     }
 
@@ -188,7 +188,7 @@ form>a.botao>span {
         float: right;
         width: 50%;
         height: 100%;
-        background: #4b3c5d url(/assets/Miless.gif) no-repeat;
+        background: #4b3c5d url(./assets/Miless.gif) no-repeat;
         background-size: cover;
         background-position: right center;
         /*  */
