@@ -42,7 +42,7 @@ section#login {
 
 section#login>div#imagem {
     display: block;
-    background: #4b3c5d url(/assets/imagem) no-repeat;
+    background: #4b3c5d url(./assets/imagem) no-repeat;
     background-size: cover;
     background-position: left center;
     height: 200px;
